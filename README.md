@@ -2,8 +2,6 @@
 
 Developer @neosistemasltda.
 
-![Twitter Follow](https://img.shields.io/twitter/follow/leandrohdsbn?style=social)
-
 <!--
 **leandroheidemann/leandroheidemann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
