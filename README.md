@@ -17,7 +17,7 @@ Developer @neosistemasltda.
   <img align="center" alt="CssLogo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="GoLogo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" >
   <img align="center" alt="SpringLogo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" >
-  
+  <img align="center" alt="NestJSLogo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" >
 </div>
   
   ##
