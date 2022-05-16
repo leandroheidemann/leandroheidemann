@@ -1,6 +1,5 @@
 # Leandro Heidemann da Silva 
 
-Developer @neosistemasltda.
 
 <div>
   <a href="https://github.com/leandroheidemann">
